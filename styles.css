@@ -1,0 +1,20 @@
+
+body{
+    margin:50px auto;
+    }
+
+.group{
+    text-align: center;  
+}
+
+img{
+    height: 600px;
+    width: auto;
+}
+.description, .ingredients, .steps{
+    margin: auto 700px;
+    
+}
+footer{
+    text-align: center;
+}
